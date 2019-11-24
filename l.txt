@@ -1,2 +1,9 @@
+
+kkjwle111111
+=======
 jkjkjaljlj
+<<<<<<< HEAD
 alll
+=======
+
+>>>>>>> a512461e3f3b58bb6a6a576938c1c5d2d27d701e
