@@ -1,5 +1,4 @@
 <<<<<<werwer< HEAD
-branch1
-=======
+branc=
 l
 >>>>>>> master
